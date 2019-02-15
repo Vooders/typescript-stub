@@ -1,1 +1,1 @@
-console.log('Stub typescript project for Connections team.')
+console.log('Stub typescript project woohoo.')
